@@ -34,3 +34,17 @@ body{
 .flash{
     background-color: white;
 }
+
+#startbtn{
+    display:flex;
+    justify-content: center;
+    background-color: blue;
+    height:50px;
+    width:100px;
+    margin-left: 47%;
+    font-size: 30px;
+    font-style: oblique;
+    color: white;
+    border-radius: 25px;
+    padding-top: 7px;
+}
